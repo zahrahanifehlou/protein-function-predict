@@ -20,10 +20,12 @@ Predict:
 ---
 
 ## 📊 Datasets
-
-- Davis Dataset
-- KIBA Dataset
 - BindingDB (subset)
+    - Dataset shape: (1645667, 6)
+    - unique targets: 8203
+    - unique SMILES: 1037995
+    - Binding affinity range (pKi): -5.456427145044637 to 20.0
+    - train samples size: 1316535
 
 Each dataset includes:
 - SMILES
